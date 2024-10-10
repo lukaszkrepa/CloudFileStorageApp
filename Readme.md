@@ -48,7 +48,7 @@ Set the following environment variables before running the application:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/lukaszkrepa/CloudFileStorageApp.gita
    cd cloud-file-storage-app
 
 2. Install dependencies and build the project:
